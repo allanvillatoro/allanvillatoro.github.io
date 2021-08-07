@@ -1,2 +1,3 @@
 # allanvillatoro.github.io
-Sitio web con información de biografía y portafolio de Allan Villatoro. Hecha con HTML y CSS.
+Resume and Portfolio website for Allan Villatoro
+The template was designed by BootstrapMade using HTML, CSS and Bootstrap.
